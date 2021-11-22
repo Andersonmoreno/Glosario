@@ -239,3 +239,9 @@ a{
 .funciones p{
     text-align: center;
 }
+table{
+        padding: 10px;
+    }
+    table th{
+        padding: 10px;
+    }
