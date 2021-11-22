@@ -245,7 +245,8 @@ table{
     table th{
         padding: 20px;
     }
-#imglogo{
+
+.imglogo{
     width: 50px;
     margin: auto;
 }
